@@ -29,7 +29,6 @@ function getJson() {
         ul.style.listStyle = "none";
         ul.style.background = "white";
         ul.style.border = "1px solid rgb(50, 153, 168)";
-        // ul.style.boxShadow = "0 0 5px rgba(0,0,0,0.5)";
         ul.style.borderRadius = "15px";
         ul.style.margin = "12px";
         ul.style.padding = "10px";
